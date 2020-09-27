@@ -6,7 +6,7 @@ This repo contains the code for the Pluralsight Project "Add Implicit and Explic
 * Http
 * Intents
 ## ScreenShots :
-![](p1.png)
-![](p2.jpeg)
-![](p3.jpeg)
-![](p4.jpeg)
+![](p1.PNG)
+![](p2.PNG)
+![](p3.PNG)
+![](p4.PNG)
